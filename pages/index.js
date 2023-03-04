@@ -11,6 +11,7 @@ export default function Home() {
       clickToLoad: true,
       hideExplorer: true,
       hideNavigation: true,
+      height: 768,
     });
   }, []);
 
